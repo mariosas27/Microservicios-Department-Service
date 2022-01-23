@@ -13,3 +13,5 @@ Department-service realiza inserciones de departamento a través de una peticón
 }
 ```
 
+### Petición GET
+Department-service realiza consultas de departamentos con peticiones GET, para esto se debe de colocar en la url el dirección del servicio, seguido de una diagonal y el *id* del departamento.
